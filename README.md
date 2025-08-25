@@ -18,7 +18,7 @@ It covers **data preprocessing, visualization, feature engineering, and evaluati
 ## 📊 Dataset
 - **Source:** `survey_lung_cancer.csv` from
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/ajisofyan/survey-lung-cancer)
-- **Features:** Age, Gender, Smoking, Anxiety, Alcohol Consumption, Shortness of Breath, etc.
+- **Features:** Age, Gender, Smoking, Yellow Fingers, Anxiety, Peer Pressure, Chronic Disease, Fatigue, Allergy, Wheezing, Alcohol Consumption, Coughing, Shortness of Breath, Swallowing Difficulty, Chest Pain, Lung Cancer.
 - **Target:** 🎯 `LUNG_CANCER` (Yes/No)
 
 ---
