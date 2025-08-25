@@ -1,4 +1,4 @@
-# 🩺 Lung Cancer Prediction using Machine Learning 
+# 🩺🫁 Lung Cancer Prediction using Machine Learning 
 ---
 
 ## 📜 License  
